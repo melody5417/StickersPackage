@@ -1,0 +1,61 @@
+{
+  "baseInfo" : {
+    "author" : "",
+    "keywords" : "",
+    "price" : 1,
+    "authorId" : "",
+    "feeType" : "01"
+  },
+  "itemInfo" : [
+    {
+      "name" : "01",
+      "md5" : "01"
+    },
+    {
+      "name" : "02",
+      "md5" : "02"
+    },
+    {
+      "name" : "03",
+      "md5" : "03"
+    },
+    {
+      "name" : "04",
+      "md5" : "04"
+    },
+    {
+      "name" : "05",
+      "md5" : "05"
+    },
+    {
+      "name" : "06",
+      "md5" : "06"
+    },
+    {
+      "name" : "07",
+      "md5" : "07"
+    },
+    {
+      "name" : "08",
+      "md5" : "08"
+    },
+    {
+      "name" : "09",
+      "md5" : "09"
+    }
+  ],
+  "iconInfo" : {
+    "md5" : "icon"
+  },
+  "operationInfo" : {
+    "freeBeginTime" : 0,
+    "minVersion" : "2.0.0",
+    "freeEndTime" : 0,
+    "platform" : "00",
+    "maxVersion" : "2.0.0",
+    "freeExpireTime" : 0,
+    "featureVersion" : "2.0.0"
+  },
+  "name" : "喵头嘤贴纸",
+  "productId" : "000001"
+}
